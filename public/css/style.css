@@ -108,14 +108,15 @@ body {
 
 @media all and (min-width: 300px) and (max-width: 400px) {
   .card__visual-img--active {
-    left: 6%;
+    left: 9.5%;
+    top: 8.5%;
     padding: 128px;
   }
 }
 @media all and (min-width: 1000px) and (max-width: 2000px) {
   .card__visual-img--active {
-    top: 10%;
-    left: 38.5%;
+    top: 9%;
+    left: 39.5%;
     padding: 126px;
   }
 }
